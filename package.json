@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-arcgis-sanjuannm",
+  "version": "0.1.0",
+  "description": "San Juan County GIS — San Juan County, New Mexico open geospatial data (ArcGIS).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "arcgis-sanjuannm"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-sanjuannm"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
