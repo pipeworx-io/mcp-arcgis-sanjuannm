@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-sanjuannm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "San Juan County GIS — San Juan County, New Mexico open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ab7d4ef139f15db6d99ac6f3d944ed2652c57bca17b2fc271d04d12fdd70b377",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-3e17dade18214d7877db1b6ea94a7c42076ba13704bf1f6175aa5ba61e12181e",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
